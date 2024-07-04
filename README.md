@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mahiralimran@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mahiralimransagor](https://github.com/mahiralimransagor)
-
 - ⚡ Fun fact **I want to make Burger with my Code!**
 
 <h3 align="left">Connect with me:</h3>
